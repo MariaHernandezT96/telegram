@@ -8,7 +8,13 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 
 # Funcionalidad 
 ## Caso de uso en general
-![CU_GENERAL](https://user-images.githubusercontent.com/82779333/137084293-cecbf208-07e9-4f89-86b2-31f0910b0497.PNG)
+![CU_GENERAL](![image](https://user-images.githubusercontent.com/85375405/137190116-c3dd7dee-4c0e-4c39-8d0c-63daf03e3bcb.png))
+
+## Registrarse
+![image](![image](https://user-images.githubusercontent.com/85375405/137190046-d848a665-52cb-445b-a700-a5de2f1e54a6.png))
+
+## Actualizar datos
+![image](https://user-images.githubusercontent.com/92350303/137072873-58ec30d2-17f5-483b-a0eb-1a1f5ac9bacb.png)
 
 ## Personas cerca
 ![image](https://user-images.githubusercontent.com/92350303/137072873-58ec30d2-17f5-483b-a0eb-1a1f5ac9bacb.png)
