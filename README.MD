@@ -34,6 +34,10 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Compartir Datos
 ![CD_T](https://user-images.githubusercontent.com/74887550/137235833-18643414-b35e-4882-abec-75ae77456870.png)
 
+## Verificación de Datos por Contacto
+![CNT](https://user-images.githubusercontent.com/74887550/137236272-ecfe8237-f138-44d5-b4d5-34adc3defcc6.png)
+
+
  
 # Prototipos
 ## Personas cerca
