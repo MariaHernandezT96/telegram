@@ -58,6 +58,16 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Actualizar informacion
 ![sam4](https://user-images.githubusercontent.com/82779333/137235403-a8678cb1-787b-4cb0-8065-e4bf4eb4ae83.PNG)
 
+## Transferencia de Datos 
+![RECEPTOR](https://user-images.githubusercontent.com/82779333/137236593-872f915e-9506-433c-848e-711ea35d6a90.PNG)
+
+
+## Compartir Datos
+![ARCHIVO](https://user-images.githubusercontent.com/82779333/137236597-43e28339-76e4-4054-b6f9-4c19596418ed.PNG)
+
+
+## Verificación de Datos por Contacto
+![SELECCION_RECEPTOR](https://user-images.githubusercontent.com/82779333/137236609-b0e2777a-1137-45e2-ab6d-662db3b1e2f3.PNG)
 
 
 
