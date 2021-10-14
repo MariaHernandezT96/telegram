@@ -28,7 +28,11 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Actualizar informacion
 ![sam1](https://user-images.githubusercontent.com/82779333/137235265-b7612c45-1628-4f77-96cc-1a9a0e3fe791.PNG)
 
+## Transferencia de Datos 
+![CU_TD](https://user-images.githubusercontent.com/74887550/137235759-2e65b153-2f19-4efc-91a1-7d372fa89ecf.png)
 
+## Compartir Datos
+![CD_T](https://user-images.githubusercontent.com/74887550/137235833-18643414-b35e-4882-abec-75ae77456870.png)
 
  
 # Prototipos
@@ -51,10 +55,6 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ![sam4](https://user-images.githubusercontent.com/82779333/137235403-a8678cb1-787b-4cb0-8065-e4bf4eb4ae83.PNG)
 
 
-# Transferencia de Datos 
-![CU_TD](https://user-images.githubusercontent.com/74887550/137235759-2e65b153-2f19-4efc-91a1-7d372fa89ecf.png)
 
-# Compartir Datos
-![CD_T](https://user-images.githubusercontent.com/74887550/137235833-18643414-b35e-4882-abec-75ae77456870.png)
 
 
