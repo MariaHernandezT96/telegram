@@ -8,7 +8,8 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 
 # Funcionalidad 
 ## Caso de uso en general
-![CU_GENERAL](https://user-images.githubusercontent.com/82779333/137084293-cecbf208-07e9-4f89-86b2-31f0910b0497.PNG)
+![CASO DE USO GENERAL2](https://user-images.githubusercontent.com/82779333/137237907-58ff7306-c70f-412d-b9e6-a89479f60421.PNG)
+
 
 ## Registrarse en telegram
 ![image](https://user-images.githubusercontent.com/85375405/137237577-fd93e80a-4093-4602-9da3-c1923000a446.png)
