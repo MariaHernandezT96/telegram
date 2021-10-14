@@ -10,6 +10,13 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 ## Caso de uso en general
 ![CU_GENERAL](https://user-images.githubusercontent.com/82779333/137084293-cecbf208-07e9-4f89-86b2-31f0910b0497.PNG)
 
+## Registrarse en telegram
+![image](https://user-images.githubusercontent.com/85375405/137237577-fd93e80a-4093-4602-9da3-c1923000a446.png)
+
+## Actualizar informacion
+![image](https://user-images.githubusercontent.com/85375405/137237719-1932bfd4-66e8-4426-8413-defb9fba3500.png)
+
+
 ## Personas cerca
 ![image](https://user-images.githubusercontent.com/92350303/137072873-58ec30d2-17f5-483b-a0eb-1a1f5ac9bacb.png)
 
@@ -21,13 +28,6 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 
 ## Editar o eliminar mensaje
 ![CasoUso1](https://user-images.githubusercontent.com/82779333/137085163-84f1b033-afec-4776-8963-3b3aef9f193d.PNG)
-
-## Registrarse en telegram
-![image](https://user-images.githubusercontent.com/85375405/137237577-fd93e80a-4093-4602-9da3-c1923000a446.png)
-
-## Actualizar informacion
-![image](https://user-images.githubusercontent.com/85375405/137237719-1932bfd4-66e8-4426-8413-defb9fba3500.png)
-
 
 ## Transferencia de Datos 
 ![CU_TD](https://user-images.githubusercontent.com/74887550/137235759-2e65b153-2f19-4efc-91a1-7d372fa89ecf.png)
