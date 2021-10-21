@@ -12,7 +12,7 @@ El servicio ofrece funcionalidades enfocadas en realizar charlas entre usuarios.
 
 
 ## Registrarse en telegram
-![image](https://user-images.githubusercontent.com/85375405/137237577-fd93e80a-4093-4602-9da3-c1923000a446.png)
+![image](https://user-images.githubusercontent.com/85375405/138331639-ef8fdcfb-d9ba-4868-9152-048a41164a65.png)
 
 ## Actualizar informacion
 ![image](https://user-images.githubusercontent.com/85375405/137237719-1932bfd4-66e8-4426-8413-defb9fba3500.png)
